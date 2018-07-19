@@ -1,9 +1,9 @@
 {
   "type": "Text",
   "data": {
-    "text": "<p>Wikipedia says : « Pale Blue Dot is a photograph of planet Earth taken on February 14, 1990, by the Voyager 1 space probe from a record distance of about 6 billion kilometers (3.7 billion miles, 40.5 AU).</p><p>In the photograph, Earth's apparent size is less than a pixel; the planet appears as a tiny dot against the vastness of space, among bands of sunlight reflected by the camera.[1]</p><p>Voyager 1, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and take one last photograph of Earth across a great expanse of space, at the request of astronomer and author Carl Sagan.»</p>"
+    "text": "<p>Wikipedia <a href=\"https://en.wikipedia.org/wiki/Pale_Blue_Dot\">says</a> : </p><p>« <strong>Pale Blue Dot</strong> is a photograph of planet Earth taken on February 14, 1990, by the Voyager 1 space probe from a record distance of about 6 billion kilometers (3.7 billion miles, 40.5 AU).</p><p>In the photograph, Earth's apparent size is less than a pixel; the planet appears as a tiny dot against the vastness of space, among bands of sunlight reflected by the camera.[1]</p><p>Voyager 1, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and take one last photograph of Earth across a great expanse of space, at the request of astronomer and author Carl Sagan.»</p>"
   },
   "path": "/text",
   "createdAt": "2018-07-19T13:35:23.337Z",
-  "updatedAt": "2018-07-19T13:38:13.596Z"
+  "updatedAt": "2018-07-19T13:47:59.925Z"
 }

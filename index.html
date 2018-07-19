@@ -1,1 +1,34 @@
-hello
+<!DOCTYPE html>
+<html>
+<head>
+<title>Metaterre</title>
+<!-- Include Simpla, Netlify auth adapter, and cross-browser polyfill-->
+<script src="https://unpkg.com/simpla@^3.0.0"></script>
+<script src="https://unpkg.com/simpla@^3.0.0/adapters/netlify.js"></script>
+<script src="https://unpkg.com/webcomponents.js@^0.7.24/webcomponents-lite.min.js" async></script>
+
+<!-- Init Simpla -->
+<script>
+  Simpla.init({
+
+    // The Github repo you want Simpla to use
+    repo: 'tibocut/metaterre',
+
+    // Netlify auth adapter, initialize with your Netlify site name
+    auth: new SimplaNetlify({ site: 'metaterre' }),
+
+    // Public content source (optional)
+    // Defaults to fetching directly from Github
+    source: 'https://www.metaterre.com'
+
+  });
+</script>  
+</head>
+<body>
+
+<h1>Metaterre</h1>
+
+<p>Hello World.</p>
+
+</body>
+</html>
